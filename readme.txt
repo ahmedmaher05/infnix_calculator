@@ -1,4 +1,4 @@
-Objective : to implement an infnix expression calculator for expressions including +, -, /, *, %, ^ and !
+Objective : to implement an infinix expression calculator for expressions including +, -, /, *, %, ^ and !
 operations.
 
 illustration : Expressions may include
